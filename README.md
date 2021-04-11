@@ -30,7 +30,7 @@ Your extension is ready to be published!
 
 ## Learn More
 
-Read more about the whole process of creating and publishing your own Firefox Add-on in [my article on Medium]().
+Read more about the whole process of creating and publishing your own Firefox Add-on in [my article on Medium](https://zanozbot.medium.com/how-to-create-your-own-firefox-add-on-with-react-ef34fcddb2ea).
 
 ## License
 
